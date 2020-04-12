@@ -2,7 +2,7 @@
 
 Elixir API that returns the UTF time.  
 To run:  
-`iex -S mix` 
+`iex -S mix`  
 API is listening in port 4000  
 
 ## Installation
