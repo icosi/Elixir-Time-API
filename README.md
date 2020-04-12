@@ -1,6 +1,9 @@
 # TimeApi
 
-**TODO: Add description**
+Elixir API that returns the UTF time.  
+To run:  
+`iex -S mix` 
+API is listening in port 4000  
 
 ## Installation
 
